@@ -1,0 +1,17 @@
+.btns {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+button {
+    width:calc(300px/4) ;
+    padding: 0.5em 0.7em;
+}
+
+.clear-btn {
+    width: 100%;
+}

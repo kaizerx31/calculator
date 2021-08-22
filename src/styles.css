@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Calculator-app {
+    width: 300px;
+    margin:0.7em auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
